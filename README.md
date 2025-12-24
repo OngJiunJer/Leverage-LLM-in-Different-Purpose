@@ -23,3 +23,11 @@
 - Transformers – LLM for question answering
 - Google GenAI – LLM for SQL generation
 - SQLite + Pandas – Manage structured data
+
+---------
+# Dataset
+The best_selling_game_consoles.csv dataset is gained from the Kaggle platform. Here is the Link: https://www.kaggle.com/datasets/tayyarhussain/best-selling-game-consoles-of-all-time/data 
+
+---------
+# PDF
+The sample.pdf is just my own resume. 
