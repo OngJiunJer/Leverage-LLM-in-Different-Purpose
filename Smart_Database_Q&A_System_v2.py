@@ -57,7 +57,7 @@ from google.genai import types
 
 # Set API key
 client = genai.Client(
-    api_key="AIzaSyAwaJiEdHIMh7NSjKnpfb88ibt0epTBC-w",
+    api_key="Germini API Key",
     http_options=types.HttpOptions(api_version='v1beta')
 )
 
@@ -104,6 +104,7 @@ print(results)
 # Save & Close
 conn.commit()
 conn.close()
+
 
 
 
